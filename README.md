@@ -1,4 +1,4 @@
-# Nour-AI — UAE Cultural Companion (Hackathon Starter)
+# Nour-AI — UAE Cultural Companion 
 
 ## Overview
 This repository is a minimal, ready-to-deploy starter for a multilingual AI Cultural Companion (English + Arabic + Urdu) using:
